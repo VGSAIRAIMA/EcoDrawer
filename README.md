@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EcoDrawer
 
 A React + TypeScript demo for learning about e-waste and making a responsible next move. This project was bootstrapped from the product brief and design reference in `PRD.md`, `DESIGN.md`, and `AGENT_PROMPT.md`.
@@ -32,3 +33,6 @@ npm run build
 Authentication, Firebase, a Teachable Machine model, embedded lesson videos, live bot services, verified recycler data, real payouts, and WhatsApp are not connected. The scan and bot are local demonstrations; recycler listings are labelled sample data and payout amounts are not configured. The six games share a quiz-style round rather than their final individual game mechanics. Do not treat demo bookings as real pickup appointments. No API keys or personal data are sent to a service.
 
 For production, connect an authorised recycler source and server-side services, add reviewed Tamil lesson/quiz content, configure verified video IDs, and perform accessibility and privacy reviews before collecting real user information.
+=======
+# EcoDrawer
+>>>>>>> a149f3d2a83690e21bec9c5d03c65a4bce23c853
